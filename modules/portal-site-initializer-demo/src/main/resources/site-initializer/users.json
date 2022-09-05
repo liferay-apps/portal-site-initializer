@@ -1,0 +1,28 @@
+{
+  "defaultSites": [
+    "/guest",
+    "[$CURRENT_SITE$]"
+  ],
+  "users": [
+    {
+      "screenName": "test-user-1",
+      "emailAddress": "test-user-1@liferay.com",
+      "firstName": "Test",
+      "lastName": "User-1",
+      "password": "1111",
+      "roles": [
+        "Test Role 1"
+      ]
+    },
+    {
+      "screenName": "test-user-2",
+      "emailAddress": "test-user-2@liferay.com",
+      "firstName": "Test",
+      "lastName": "User-2",
+      "password": "1111",
+      "roles": [
+        "Test Role 2"
+      ]
+    }
+  ]
+}

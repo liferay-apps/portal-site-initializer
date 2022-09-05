@@ -1,0 +1,8 @@
+Bundle-Name: Portal Site Initializer Demo
+Bundle-SymbolicName: com.liferay.portal.site.initializer.demo
+Bundle-Version: 1.0.0
+Portal-Site-Initializer-Name: Portal Site Initializer Demo
+Portal-Site-Initializer-Strategy: DELETE
+Portal-Site-Initializer-Description: Demo Module for Portal Site Initializer
+Provide-Capability: portal.site.initializer
+Web-ContextPath: /portal-site-initializer-demo
